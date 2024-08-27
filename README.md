@@ -1,1 +1,1 @@
-# AkshithaBurugu-Emergency-vehicles-detection
+# Emergency-vehicles-detection
